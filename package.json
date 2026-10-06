@@ -1,0 +1,11 @@
+{
+  "name": "custody-kits",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Describe a handoff process as a small spec and get signed, chained custody records and a verifier for it, without writing code.",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" },
+  "license": "Apache-2.0",
+  "author": "Embryo Space Inc. (DBA BSVKey)"
+}
